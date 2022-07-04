@@ -15,11 +15,11 @@
 
 
 - 🔭 I'm a Data analyst and an Electrical Engineering student
-- 🌱 I’m currently learning how about Data structures and Algorithms.
+- 🌱 I’m currently learning  about Data structures and Algorithms.
 - 👯 I’m looking to collaborate on projects that have a basis in Data science 
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about Python,Excel,R,PostGres,BigQuery(SQL).
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/benard-igbinovia">) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benard-igbinovia)
 - ⚡ Fun fact: I work as a Project Manager too so i love working with People.
 
 ---
